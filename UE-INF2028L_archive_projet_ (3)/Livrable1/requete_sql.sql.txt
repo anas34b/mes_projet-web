@@ -1,0 +1,1 @@
+INSERT INTO Plante (nomEspèce , nomEspèceLatin , type , sous_Type) SELECT nomEspèce , nomEspèceLatin , type , sousType  FROM p1813658.DonneesFournies 

@@ -1,0 +1,1 @@
+<?php echo("Fonctionnalité 4 (vue)"); ?>

@@ -1,0 +1,40 @@
+body{
+  margin:25px;
+  padding:0;
+  background-color: #b5f0b0;  
+  
+
+}
+
+
+html {
+  scroll-behavior: smooth;
+  
+}
+
+p {
+  color: #04AA6D;
+  text-align: center;
+  font-size: xx-large;
+  text-size-adjust: auto ;
+  
+  font-family: Georgia, serif"
+}
+
+h4 {
+    color: #44d240 !important;
+}
+
+
+header{
+
+ 
+}
+
+nav {
+	
+	margin-left:0em;
+}
+
+  
+  
